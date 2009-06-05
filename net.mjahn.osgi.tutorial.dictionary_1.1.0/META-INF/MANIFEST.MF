@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dictionary API
+Bundle-SymbolicName: net.mjahn.osgi.tutorial.dictionary_1.1.0
+Bundle-Version: 1.1.0.qualifier
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: net.mjahn.osgi.tutorial.dictionary;version="1.1.0"
+Bundle-Vendor: mjahn.net

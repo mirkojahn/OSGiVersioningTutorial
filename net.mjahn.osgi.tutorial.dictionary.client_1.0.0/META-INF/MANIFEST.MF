@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DictionaryService Client
+Bundle-SymbolicName: net.mjahn.osgi.tutorial.dictionary.client_1.0.0
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: net.mjahn.osgi.tutorial.dictionary.client.Activator
+Bundle-Vendor: mjahn.net
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Import-Package: net.mjahn.osgi.tutorial.dictionary;version="[1.0.0,2.0.0)",
+ org.eclipse.osgi.framework.console;version="[1.0.0,1.1.0)",
+ org.osgi.framework;version="[1.3.0,2.0.0)",
+ org.osgi.util.tracker;version="[1.3.0,2.0.0)"
